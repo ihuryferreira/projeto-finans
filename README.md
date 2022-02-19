@@ -1,4 +1,4 @@
-# projeto-finans
+# Projeto-Finans
 @autor Ihury_Ferreira
 
 Esse projeto Criei para aperfeiçoar o meu conhecimento de HTML, CSS, Bootstrap e JavaScript
